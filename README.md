@@ -1,2 +1,2 @@
 # Optimisation-Windows-11
-# Optimisation-windows-11
+Supprime les fichier temporaires
