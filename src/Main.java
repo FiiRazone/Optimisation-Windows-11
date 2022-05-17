@@ -38,7 +38,7 @@ public class Main
     fenetre = new JFrame("Optimisation windows 11");
     fenetre.setDefaultCloseOperation(3);
     fenetre.setUndecorated(false);
-    fenetre.setSize(400, 300);
+    fenetre.setSize(400, 300); 
     fenetre.setLocationRelativeTo(null);
     fenetre.setContentPane(container);
     fenetre.setIconImage(new ImageIcon(userHome + "\\Documents\\Optimisation\\icon.png").getImage());
