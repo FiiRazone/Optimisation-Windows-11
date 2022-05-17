@@ -32,7 +32,7 @@ public class Main
     javax.swing.SwingUtilities.updateComponentTreeUI(fenetre);
   }
   
-  public static void fenetre() {
+  public static void fenetre() { 
     Container();
     boutonsAndBoutonsActions();
     fenetre = new JFrame("Optimisation windows 11");
