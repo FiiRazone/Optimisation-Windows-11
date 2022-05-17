@@ -17,7 +17,7 @@ public class Main
   public static javax.swing.JPanel container;
   public static String userHome = System.getProperty("user.home");
   
-  public Main() {}
+  public Main() {} 
   
   public static void main(String[] args)
   {
